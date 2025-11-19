@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Devansh Awasthi</h1>
 <h3 align="center">A passionate Data Science adherent with a touch-up in Backend development and Leadership Roles</h3>
 
-- 🔭 I’m currently working as a Backend Dev at [The Entrepreneurship Network](https://acrobat.adobe.com/id/urn:aaid:sc:AP:2ac805ba-ba92-4b49-b634-1896c7143500)
+- 🔭 I worked as a Backend Dev at [The Entrepreneurship Network](https://acrobat.adobe.com/id/urn:aaid:sc:AP:2ac805ba-ba92-4b49-b634-1896c7143500) and as an AI Developer at Vishvam AI
 
 - 🌱 I’m currently learning **PyTorch, Keras, Rest-API Integration and a course of Krish Naik named as "Complete Data Science,Machine Learning,DL,NLP Bootcamp"**
 
