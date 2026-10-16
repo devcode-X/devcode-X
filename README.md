@@ -29,30 +29,28 @@
 
 ## ⚡ About Me
 
-```python
-class DevanshAwasthi:
-    def __init__(self):
-        self.role        = "AI Engineer Intern → Builder"
-        self.education   = [
-            "B.Tech Mathematics & Computing @ RGIPT (CGPA: 7.33)",
-            "B.S. Data Science @ IIT Madras (CGPA: 8.78, Topper Batch)"
-        ]
-        self.experience  = [
-            "Siemens Technology — AI & On-device Learning (Jul–Oct 2026)",
-            "vInnovate Technologies — LLM & Generative AI (Jan–Jun 2026)",
-        ]
-        self.stack       = ["LangGraph", "LangChain", "OpenAI", "Claude", "MCP", "RAG", "FastAPI"]
-        self.cloud       = ["AWS EC2", "Docker", "GitHub Actions", "Cloudflare"]
-        self.certs       = ["Oracle Certified Agentic AI", "IIT Madras TA (A+)"]
-        self.wins        = "3× Hackathon Winner 🏆 (200+ participants each)"
-        self.location    = "India 🇮🇳 · Open to Gurugram / Remote"
-
-    def current_focus(self):
-        return [
-            "Building production-grade LLM agent systems",
-            "LLM evaluation & hallucination detection",
-            "AI automation tools for real business workflows",
-        ]
+```bash
+┌─[devansh@github]─[~]
+│
+├── 🎓 Education
+│   ├── B.Tech Mathematics & Computing  →  RGIPT         [CGPA: 7.33 | 2023–27]
+│   └── B.S. Data Science               →  IIT Madras    [CGPA: 8.78 | Topper Batch]
+│
+├── 💼 Experience
+│   ├── Siemens Technology              →  AI & On-device Learning   [Jul 2026 – Present]
+│   └── vInnovate Technologies          →  LLM & Generative AI       [Jan–Jun 2026]
+│
+├── 🤖 Currently Building
+│   ├── Multi-agent LLM systems with LangGraph & MCP
+│   ├── RAG pipelines + LLM evaluation frameworks
+│   └── AI automation tools for real business workflows
+│
+├── 🏆 Wins
+│   ├── 3× Hackathon Winner             →  12,000+ participants
+│   ├── Oracle Certified Agentic AI
+│   └── IIT Madras Teaching Assistant   →  Grade A+
+│
+└── 📍 India · Open to Gurugram / Remote
 ```
 
 ---
