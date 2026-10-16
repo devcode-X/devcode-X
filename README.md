@@ -21,7 +21,7 @@
 - 💼 **Intern @ Siemens Technology** — AI & On-device Learning (Jul 2026–Present)
 - 💼 **Ex-Intern @ vInnovate Technologies** — LLM & Generative AI (Jan–Jun 2026)
 - 🤖 I build **AI agents, LLM pipelines, and automation tools** using ChatGPT, Claude, LangGraph & MCP
-- 🏆 **Oracle Certified Agentic AI** | **3× Hackathon Winner** (200+ participants)
+- 🏆 **Oracle Certified Agentic AI** | **3× Hackathon Winner** (12000+ participants)
 - 🧑‍🏫 **Teaching Assistant** — Professional Communication, IIT Madras (Grade: A+)
 - 📍 Bengaluru, India · Open to all opportunities
 
