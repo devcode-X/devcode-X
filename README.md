@@ -30,15 +30,17 @@
 ## ⚡ About Me
 
 ```bash
-┌─[devansh@github]─[~]
+┌─[devansh@github]─[~/bengaluru]
 │
 ├── 🎓 Education
 │   ├── B.Tech Mathematics & Computing  →  RGIPT         [CGPA: 7.33 | 2023–27]
 │   └── B.S. Data Science               →  IIT Madras    [CGPA: 8.78 | Topper Batch]
 │
-├── 💼 Experience
-│   ├── Siemens Technology              →  AI & On-device Learning   [Jul 2026 – Present]
-│   └── vInnovate Technologies          →  LLM & Generative AI       [Jan–Jun 2026]
+├── 💼 Experience  (4 internships)
+│   ├── Siemens Technology              →  AI & On-device Learning       [Jul 2026 – Present]
+│   ├── vInnovate Technologies          →  LLM & Generative AI           [Jan–Jun 2026]
+│   ├── The Entrepreneurship Network    →  Python Developer              [Nov 2024 – Apr 2025]
+│   └── Vishvam AI                      →  AI Developer                  [2024]
 │
 ├── 🤖 Currently Building
 │   ├── Multi-agent LLM systems with LangGraph & MCP
@@ -50,7 +52,7 @@
 │   ├── Oracle Certified Agentic AI
 │   └── IIT Madras Teaching Assistant   →  Grade A+
 │
-└── 📍 India · Open to Gurugram / Remote
+└── 📍 Bengaluru, India · Open to anything, anywhere — India / Abroad / Remote
 ```
 
 ---
