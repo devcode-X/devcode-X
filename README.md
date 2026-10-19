@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated typing header -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Hey+there%2C+I'm+Devansh+%F0%9F%91%8B;AI+Engineer+%7C+LLM+Builder+%7C+Agent+Dev;Building+AI+tools+people+actually+use;IIT+Madras+%C3%97+RGIPT+%7C+Siemens+Alumni" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Hey+there%2C+I'm+Devansh+%F0%9F%91%8B;AI+Engineer+%7C+LLM+Builder+%7C+Agent+Dev;Building+AI+tools+people+actually+use;IIT+Madras+%C3%97+RGIPT+%7C+Siemens" alt="Typing SVG" />
 
 <br/>
 
@@ -33,7 +33,7 @@
 ┌─[devansh@github]─[~/bengaluru]
 │
 ├── 🎓 Education
-│   ├── B.Tech Mathematics & Computing  →  RGIPT         [CGPA: 7.33 | 2023–27]
+│   ├── B.Tech Mathematics & Computing  →  RGIPT         [CGPA: 7.5 | 2023–27]
 │   └── B.S. Data Science               →  IIT Madras    [CGPA: 8.78 | Topper Batch]
 │
 ├── 💼 Experience  (4 internships)
